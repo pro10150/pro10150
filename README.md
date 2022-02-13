@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Noppakun Anantakitthawon</h1>
+<h3 align="center">Student at KMUTT, Thailand🌟.</h3>
 
 <!--
 **pro10150/pro10150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -57,7 +57,30 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> </p>
+      alt="react" width="40" height="40" /> </a> </p> <a href="https://www.apple.com/th/swift/" target="_blank" rel="noreferrer"> <img
+      src="https://developer.apple.com/swift/images/swift-og.png"
+      alt="swift" width="40" height="40" /> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+      src="https://www.codemobiles.co.th/online/images/course_shortcut_flutter.png"
+      alt="flutter" width="40" height="40" /> </a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img
+      src="https://www.mindphp.com/forums/download/file.php?id=73880"
+      alt="figma" width="40" height="40" /> </a> 
+      </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pro10150&show_icons=true&locale=en&layout=compact"
+    alt="pro10150" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro10150&show_icons=true&locale=en"
+    alt="pro10150" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pro10150&" alt="pro10150" /></p>
 
 <br>
 

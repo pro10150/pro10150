@@ -2,9 +2,9 @@
 <h3 align="center">Student at KMUTT, Thailand🌟.</h3>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently a Mobile Developer with Flutter and iOS experiences.
 
-- 📫 How to reach me **pro10150@gmail.com**
+- 📫 How to reach me **noppakun.antk@gmail.com**
 
 - ⚡ Fun fact :- shabu and game are the reasons to live.
 

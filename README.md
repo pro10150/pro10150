@@ -68,22 +68,6 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pro10150&show_icons=true&locale=en&layout=compact"
-    alt="pro10150" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro10150&show_icons=true&locale=en"
-    alt="pro10150" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pro10150&" alt="pro10150" /></p>
-
-<br>
-
 <!--
 **pro10150/pro10150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

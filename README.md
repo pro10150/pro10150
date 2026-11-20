@@ -6,7 +6,15 @@
 - 🤖 Building with LLMs: Apple Foundation Models, Vision OCR, Claude Code agents and MCP.
 - 🔭 Open to roles in mobile development, solutions engineering, technical BA and AI application development.
 - 📫 **noppakun.antk@gmail.com** · [noppakunanantakitthawon.com](https://noppakunanantakitthawon.com)
-- ⚡ Fun fact: shabu and games keep me going.
+
+<h3 align="left">Featured projects:</h3>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**hew-a**](https://github.com/pro10150/hew-a) | Tinder-style recipe app: swipe menus, match by what's in your fridge, item-based recommendations. 3rd-year team project. | Flutter, Firebase, Python/Flask |
+| [**parking-system**](https://github.com/pro10150/parking-system) | Paperless parking scale model: QR in, pay, QR out. IoT project to cut paper-ticket waste. | ESP8266, React, Flask |
+| [**littlelemon**](https://github.com/pro10150/littlelemon) | Restaurant app, Meta iOS Developer certificate capstone. | Swift, SwiftUI |
+| [**androidCapStone**](https://github.com/pro10150/androidCapStone) | Same app for Android, Meta Android Developer certificate capstone. | Kotlin, Jetpack Compose, Room |
 
 <!-- 🛠️ Side project: Orchid, a self-hosted project management tool (link once orchid-board is public) -->
 
